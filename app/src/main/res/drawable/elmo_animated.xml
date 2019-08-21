@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/frame_00_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_01_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_02_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_03_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_04_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_05_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_06_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_07_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_08_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_09_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_10_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_11_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_12_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_13_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_14_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_15_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_16_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_17_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_18_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_19_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_20_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_21_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_22_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_23_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_24_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_25_elmo" android:duration="35"/>
+    <item android:drawable="@drawable/frame_26_elmo" android:duration="35"/>
+
+</animation-list>
